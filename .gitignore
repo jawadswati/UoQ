@@ -1,5 +1,9 @@
-# Claude Code local agent state
+# Claude Code local agent state & internal AI guidance (kept local, not published)
 .claude/
+CLAUDE.md
+
+# Maintainer scripts — kept local, not published to the student repo
+tools/
 
 # PDF build artifacts (the .pdf is committed, the intermediate .html is not)
 *.html

@@ -50,5 +50,3 @@ relying on them in an exam.
 
 Source course: **معلم القرآن — Muallim ul Quran** (arabicpakistan.com).
 Licensed under the **GNU GPL v3** (see [LICENSE](LICENSE)).
-
-*Maintainers: see [`tools/`](tools) for the scripts used to transcribe slides and build the PDFs.*
