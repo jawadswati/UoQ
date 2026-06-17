@@ -1,0 +1,94 @@
+slide,section,arabic,urdu,notes,confidence
+01,detached-pronouns,هُوَ,وہ (مذکر)/وہ ہے,detached pronoun "he/it";see-grammar,high
+06,detached-pronouns,أَنْتَ,تو/تم (مذکر)/تم ہو,detached pronoun "you" masc.;see-grammar,high
+10,detached-pronouns,هِيَ,وہ (مؤنث)/وہ ہے,detached pronoun "she/it" fem.;see-grammar,high
+14,detached-pronouns,أَنَا,میں/میں ہوں,detached pronoun "I";see-grammar,high
+02,attached-pronouns,ـهُ,اس کا/اس کی (مذکر),3rd masc. sing. possessive/object suffix;see-grammar,high
+09,attached-pronouns,ـكَ,تیرا/تیری (مذکر),2nd masc. sing. suffix "your";see-grammar,high
+13,attached-pronouns,ـهَا,اس کا/اس کی (مؤنث),3rd fem. sing. suffix "her/its";see-grammar,high
+14,attached-pronouns,ـي,میرا/میری,1st sing. possessive suffix "my";see-grammar,high
+04,pronoun-on-particle,لَهُ,اس کے لیے/اس کا,لِـ + ـهُ;see-grammar,high
+04,pronoun-on-particle,مِنْهُ,اس سے,مِنْ + ـهُ;see-grammar,high
+04,pronoun-on-particle,فِيهِ,اس میں,فِي + ـهُ (kasra after fi/yaa);see-grammar,high
+04,pronoun-on-particle,إِلَيْهِ,اس کی طرف,إِلَى + ـهُ;see-grammar,high
+04,pronoun-on-particle,عَلَيْهِ,اس پر,عَلَى + ـهُ;see-grammar,high
+04,pronoun-on-particle,إِنَّهُ,بے شک وہ,إِنَّ + ـهُ;see-grammar,high
+04,pronoun-on-particle,أَنَّهُ,کہ وہ,أَنَّ + ـهُ;see-grammar,high
+11,pronoun-on-particle,لَكَ,تیرے لیے,لِـ + ـكَ;see-grammar,high
+11,pronoun-on-particle,مِنْكَ,تجھ سے,مِنْ + ـكَ;see-grammar,high
+11,pronoun-on-particle,فِيكَ,تجھ میں,فِي + ـكَ;see-grammar,high
+11,pronoun-on-particle,إِلَيْكَ,تیری طرف,إِلَى + ـكَ;see-grammar,high
+11,pronoun-on-particle,عَلَيْكَ,تجھ پر,عَلَى + ـكَ;see-grammar,high
+11,pronoun-on-particle,إِنَّكَ,بے شک تو,إِنَّ + ـكَ;see-grammar,high
+08,pronoun-on-particle,عَنْكَ,تجھ سے/تیرے بارے میں,عَنْ + ـكَ;see-grammar,high
+12,pronoun-on-particle,لَهَا,اس کے لیے (مؤنث),لِـ + ـهَا;see-grammar,high
+12,pronoun-on-particle,مِنْهَا,اس سے (مؤنث),مِنْ + ـهَا;see-grammar,high
+12,pronoun-on-particle,فِيهَا,اس میں (مؤنث),فِي + ـهَا;see-grammar,high
+12,pronoun-on-particle,إِلَيْهَا,اس کی طرف (مؤنث),إِلَى + ـهَا;see-grammar,high
+12,pronoun-on-particle,عَلَيْهَا,اس پر (مؤنث),عَلَى + ـهَا;see-grammar,high
+12,pronoun-on-particle,إِنَّهَا,بے شک وہ (مؤنث),إِنَّ + ـهَا;see-grammar,high
+16,pronoun-on-particle,لِي,میرے لیے,لِـ + ـي;see-grammar,high
+16,pronoun-on-particle,مِنِّي,مجھ سے,مِنْ + ـي (nun doubled);see-grammar,high
+16,pronoun-on-particle,فِيَّ,مجھ میں,فِي + ـي (yaa doubled);see-grammar,med
+16,pronoun-on-particle,إِلَيَّ,میری طرف,إِلَى + ـي;see-grammar,high
+16,pronoun-on-particle,عَلَيَّ,مجھ پر,عَلَى + ـي;see-grammar,high
+16,pronoun-on-particle,إِنِّي,بے شک میں,إِنَّ + ـي;see-grammar,high
+05,prepositions,عَنْ,سے/کے بارے میں,preposition;taught with عَنِ الْآخِرَةِ,high
+05,particles,كَـ,کی طرح/جیسا,prefix "like/as" (كَالسَّمَاءِ);see-grammar,high
+02,noun-bases,بَيْت,گھر,base noun drilled with suffixes,high
+02,noun-bases,رَبّ,رب/پالنے والا,base noun drilled with suffixes,high
+02,noun-bases,رَحْمَة,رحمت,base noun;fem-ta,high
+02,noun-bases,قَوْل,بات/قول,base noun drilled with suffixes,high
+02,noun-bases,قَلْب,دل,base noun drilled with suffixes,high
+02,noun-bases,عَمَل,عمل,base noun drilled with suffixes,high
+02,noun-bases,عَرْش,عرش,base noun drilled with suffixes,high
+02,noun-bases,كُرْسِيّ,کرسی,base noun drilled with suffixes,high
+07,noun-bases,نَفْس,جان/نفس,base noun;fem,high
+07,noun-bases,شَكْل,شکل,base noun,high
+07,noun-bases,نُور,نور/روشنی,base noun,high
+07,noun-bases,ضَرّ,تکلیف/نقصان,base noun,high
+07,noun-bases,زِينَة,زینت,base noun;fem-ta,high
+07,noun-bases,مَأْوَى,ٹھکانا,base noun,high
+07,noun-bases,أُمّ,ماں,base noun,high
+07,noun-bases,أَخْذ,پکڑ,base noun,high
+07,noun-bases,تَسْبِيح,تسبیح,base noun,high
+07,noun-bases,كُفْر,کفر/ناشکری,base noun,high
+07,noun-bases,خَتْم,مہر,base noun;ختام = مُہر,med
+07,noun-bases,مَوْلَى,مددگار/مالک,base noun,high
+13,noun-bases,زَوْج,شوہر/جوڑا,base noun drilled with هَا,high
+13,noun-bases,لَوْن,رنگ,base noun,high
+13,noun-bases,إِيمَان,ایمان,base noun,high
+13,noun-bases,أَجَل,مدت/موت کا وقت,base noun,high
+13,noun-bases,قَائِل,کہنے والا,base noun,high
+13,noun-bases,أَهْل,اہل/گھر والے,base noun,high
+13,noun-bases,عِلْم,علم,base noun,high
+13,noun-bases,عَيْن,آنکھ/چشمہ,base noun;fem,high
+13,noun-bases,عَذَاب,عذاب,base noun,high
+13,noun-bases,مُنْتَهَى,انتہا,base noun,high
+14,noun-bases,دِين,دین,base noun drilled with ـي,high
+14,noun-bases,عِبَادَة,عبادت,base noun;fem-ta,high
+14,noun-bases,رُوح,روح,base noun,high
+14,noun-bases,رُؤْيَا,خواب,base noun,high
+14,noun-bases,رِسَالَة,پیغام/رسالت,base noun;fem-ta,high
+14,noun-bases,عَصَا,لاٹھی,base noun,high
+14,noun-bases,آيَة,آیت/نشانی,base noun;fem-ta,high
+14,noun-bases,كَلَام,کلام,base noun,high
+14,noun-bases,تَذْكِير,یاد دلانا,base noun,med
+14,noun-bases,نُصْح,خیر خواہی,base noun,high
+06,detached-pronoun-examples,نَذِير,ڈرانے والا,used after أَنْتَ/أَنَا,high
+06,detached-pronoun-examples,بَشَر,انسان/بشر,used after أَنَا,high
+06,detached-pronoun-examples,حَقّ,حق,used after هُوَ (هُوَ الْحَقُّ),high
+06,detached-pronoun-examples,شِفَاء,شفا,used after هُوَ,high
+05,relative-noun,الَّذِي,جو/جس,relative pronoun "the one who/which",high
+18,ism-maful,مَظْلُوم,جس پر ظلم ہوا,مَفْعُول pattern (passive "done-to"),high
+18,ism-maful,مَذْكُور,جس کا ذکر کیا گیا,مَفْعُول pattern (mentioned),high
+18,ism-maful,مَنْصُور,جس کی مدد کی گئی,مَفْعُول pattern (helped/given victory),high
+18,ism-maful,مَجْرُور,کھینچا گیا,مَفْعُول pattern,med
+18,ism-maful,مَحْفُوظ,محفوظ کیا گیا,مَفْعُول pattern,high
+18,nisba-tanwin,مُجْرِم,مجرم,base for مُجْرِمًا (بحیثیت مجرم),high
+18,nisba-tanwin,سَاجِد,سجدہ کرنے والا,base for سَاجِدًا,high
+18,nisba-tanwin,خَائِف,ڈرنے والا,base for خَائِفًا,high
+18,nisba-tanwin,يَتِيم,یتیم,base for يَتِيمًا,high
+18,nisba-tanwin,نَبِيّ,نبی,base for نَبِيًّا,high
+18,nisba-tanwin,مَظْلُوم,مظلوم,base for مَظْلُومًا,high
+18,nisba-tanwin,شَيْخ,بوڑھا,base for شَيْخًا,high
