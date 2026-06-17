@@ -1,0 +1,79 @@
+slide,section,arabic,urdu,notes,confidence
+01,particles,إِنَّ,بے شک/یقیناً,particle;see-grammar,high
+03,particles,لِـ,کے لیے,particle;see-grammar,high
+04,particles,فِي,میں,particle;see-grammar,high
+05,particles,عَلَى,پر,particle;see-grammar,high
+06,particles,مِنْ,سے,particle;see-grammar,high
+07,particles,إِلَى,کی طرف/تک,particle;see-grammar,high
+08,particles,بِـ,سے/پر/کو,particle;see-grammar,high
+09,particles,لَا,(قطعاً) کوئی نہیں,particle;see-grammar,high
+10,particles,إِلَّا,مگر/سوائے,particle;see-grammar,high
+10,particles,مَا,نہیں,particle;see-grammar,high
+10,particles,وَ,کی قسم,particle-oath;see-grammar,high
+11,particles,أَنَّ,کہ,particle;see-grammar,high
+12,particles,كَانَ,تھا,particle;see-grammar,high
+12,particles,يَا,اے,particle-vocative;see-grammar,high
+12,particles,يَا أَيُّهَا,اے,particle-vocative,high
+12,particles,فَإِنَّ,تو بیشک,particle-compound,high
+03,particles,فَلِله,تو اللہ کے لیے,particle-compound,high
+08,particles,فَلَا,تو قطعاً کوئی نہیں,particle-compound,high
+01,proper-names,يَأْجُوج,یاجوج,proper-name-no-al,high
+01,proper-names,مَأْجُوج,ماجوج,proper-name-no-al,high
+01,proper-names,قَارُون,قارون,proper-name-no-al,high
+07,proper-names,هَامَان,ہامان,proper-name-no-al,high
+01,proper-names,إِسْمَاعِيل,اسماعیل,proper-name-no-al,high
+01,proper-names,إِسْحَاق,اسحاق,proper-name-no-al,high
+01,proper-names,يَعْقُوب,یعقوب,proper-name-no-al,high
+04,proper-names,دَاوُود,داؤد,proper-name-no-al,high
+07,proper-names,سُلَيْمَان,سلیمان,proper-name-no-al,high
+07,proper-names,يُونُس,یونس,proper-name-no-al,high
+07,proper-names,أَيُّوب,ایوب,proper-name-no-al,high
+04,proper-names,هَارُون,ہارون,proper-name-no-al,high
+12,proper-names,نُوح,نوح,proper-name-no-al,high
+12,proper-names,شُعَيْب,شعیب,proper-name-no-al,high
+12,proper-names,يَحْيَى,یحییٰ,proper-name-no-al,high
+12,proper-names,زَكَرِيَّا,زکریا,proper-name-no-al,high
+12,proper-names,صَالِح,صالح,proper-name-no-al,high
+12,proper-names,هُود,ہود,proper-name-no-al,high
+06,proper-names,مَدْيَن,مدین,proper-name-no-al,high
+09,proper-names,جَالُوت,جالوت,proper-name-no-al,high
+05,proper-names,إِلْ يَاسِين,الیاسین,proper-name-no-al,high
+04,proper-names,مَالِك,مالک (داروغۂ جہنم),proper-name,high
+01,proper-names,الصَّفَا,صفا,place-name,high
+01,proper-names,الْمَرْوَة,مروہ,place-name,high
+01,new-nouns,السَّاعَة,قیامت,fem,high
+06,new-nouns,الطَّاغُوت,طاغوت/سرکش,,high
+03,new-nouns,السَّفِينَة,کشتی,fem,high
+03,new-nouns,الْفُلْك,کشتی,,high
+06,new-nouns,الْكَهْف,غار,,high
+03,new-nouns,السِّجْن,قید خانہ/جیل,,high
+06,new-nouns,التَّهْلُكَة,تباہی,fem,med
+09,new-nouns,الضَّرِيع,بدبودار کانٹے دار پودا,,med
+12,new-nouns,الْمُزَّمِّل,چادر لپیٹنے والا,,high
+12,new-nouns,الْمُدَّثِّر,چادر اوڑھنے والا,,high
+12,new-nouns,النَّمْل,چیونٹی,,high
+08,new-nouns,الْأُذُن,کان,fem,high
+08,new-nouns,الْأَنْف,ناک,,high
+08,new-nouns,السِّنّ,دانت,,high
+08,new-nouns,الْعَيْن,آنکھ,fem,high
+08,new-nouns,الْأُنْثَى,عورت/مادہ,fem,high
+08,new-nouns,الْحُرّ,آزاد,,high
+10,new-nouns,الطُّور,طور (پہاڑ),,high
+10,new-nouns,الزَّيْتُون,زیتون,,high
+10,new-nouns,الْعَصْر,زمانہ/عصر,,high
+06,new-nouns,الْأَجَل,مدت/میعاد,,high
+06,new-nouns,الْفِضَّة,چاندی,fem,high
+06,new-nouns,الذَّهَب,سونا,,high
+06,new-nouns,الْجُوع,بھوک,,high
+06,new-nouns,الْحَرْث,کھیتی,,high
+06,new-nouns,الْأَنْعَام,مویشی,,high
+04,new-nouns,الْمَيْسِر,جوا,,med
+06,new-nouns,الرُّشْد,ہدایت/راہِ راست,,high
+06,new-nouns,الْأَذْقَان,ٹھوڑیاں,plural,med
+10,new-nouns,الْوَتْر,طاق,,high
+10,new-nouns,الشَّفْع,جفت,,high
+09,new-nouns,الْحُجَّة,دلیل/حجت,fem,high
+09,new-nouns,الْبُرْهَان,دلیل,,high
+09,new-nouns,الْمَوْلَى,دوست/کارساز,,high
+09,new-nouns,الْجِدَال,جھگڑا,,high
+01,new-nouns,الْعَاقِبَة,انجام,fem,high

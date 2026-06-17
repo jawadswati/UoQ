@@ -1,0 +1,15 @@
+# Claude Code local agent state
+.claude/
+
+# PDF build artifacts (the .pdf is committed, the intermediate .html is not)
+*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db

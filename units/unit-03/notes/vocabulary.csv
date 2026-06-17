@@ -1,0 +1,178 @@
+slide,section,arabic,urdu,notes,confidence
+01,adjectives,عَظِيم,بڑا/عظیم,adjective,high
+01,adjectives,شَدِيد,سخت,adjective,high
+01,adjectives,قَلِيل,تھوڑا,adjective,high
+01,adjectives,كَبِير,بڑا,adjective,high
+01,adjectives,مُبِين,واضح/کھلا/روشن,adjective,high
+01,adjectives,وَاحِد,ایک,adjective,high
+01,adjectives,مُسْتَقِيم,سیدھا/درست,adjective,high
+01,adjectives,مُهِين,رسوا کن,adjective,high
+01,adjectives,أَمِين,دیانت دار,adjective,high
+01,adjectives,كَرِيم,عمدہ/شاندار,adjective,high
+01,adjectives,غَلِيظ,سخت,adjective,high
+01,adjectives,عَلِيم,علم والا,adjective,high
+01,adjectives,مُصَدِّق,تصدیق کرنے والا,adjective,high
+01,adjectives,أَلِيم,دردناک,adjective,high
+01,adjectives,خَبِيث,برا/ناپاک,adjective,high
+01,adjectives,جَدِيد,نیا,adjective,high
+01,adjectives,قَرِيب,نزدیک,adjective,high
+01,adjectives,بَعِيد,دور,adjective,high
+01,adjectives,مَلْعُون,ملعون,adjective,high
+01,adjectives,مُؤْمِن,مومن,adjective,high
+01,adjectives,مُشْرِك,مشرک,adjective,high
+01,adjectives,أَعْجَمِيّ,عجمی/غیر عربی,adjective,high
+01,adjectives,طَيِّبَة,پاک/عمدہ,adjective-fem,high
+01,adjectives,خَبِيثَة,ناپاک/گندی,adjective-fem,high
+01,adjectives,مُبَارَك,مبارک/برکت والا,adjective,high
+01,adjectives,عَرَبِيّ,عربی,adjective,high
+01,adjectives,كُبْرَى,بڑی,adjective-fem,high
+03,adjectives,حَكِيم,حکمت والا,adjective,high
+03,adjectives,عَجِيب,عجیب,adjective,high
+03,adjectives,قَدِيم,پرانا,adjective,high
+03,adjectives,أَبْيَض,سفید,adjective,high
+03,adjectives,أَخْضَر,سبز,adjective,high
+03,adjectives,أَكْبَر,سب سے بڑا,adjective,high
+03,adjectives,مُقِيم,دائمی,adjective,high
+03,adjectives,مُنِير,روشن,adjective,high
+03,adjectives,بَلِيغَة,موثر/پہنچنے والی,adjective-fem,high
+02,relational-nouns,عَذَاب,عذاب,mawsuf,high
+02,relational-nouns,رَسُول,رسول/فرشتہ,mawsuf,high
+02,relational-nouns,قُرْآن,قرآن,mawsuf,high
+02,relational-nouns,قَوْل,قول/بات,mawsuf,high
+02,relational-nouns,يَوْم,دن,mawsuf,high
+02,relational-nouns,شَيْء,چیز,mawsuf,high
+02,relational-nouns,مَكَان,مقام/جگہ,mawsuf,high
+02,relational-nouns,سَاحِر,جادوگر,mawsuf,high
+02,relational-nouns,سِحْر,حر/جادو,mawsuf,high
+02,relational-nouns,إِفْك,جھوٹ,mawsuf,high
+02,relational-nouns,إِثْم,گناہ,mawsuf,high
+02,relational-nouns,كَلِمَة,کلمہ/بات,mawsuf,high
+02,relational-nouns,شَجَرَة,درخت,mawsuf,high
+02,relational-nouns,ضَلَال,گمراہی,mawsuf,high
+02,relational-nouns,أُمَّة,امت/قوم,mawsuf,high
+02,relational-nouns,عَدُوّ,دشمن,mawsuf,high
+02,relational-nouns,أَجَل,مدت,mawsuf,high
+04,relational-nouns,رَبّ,پالنے والا/مالک,mudaf,high
+04,relational-nouns,قَوْم,قوم,mudaf,high
+04,relational-nouns,آل,آل/خاندان,mudaf,high
+04,relational-nouns,أَهْل,والے/رہنے والے,mudaf,high
+04,relational-nouns,آيَات,آیات,mudaf,high
+04,relational-nouns,دَار,گھر,mudaf,high
+04,relational-nouns,مَثَل,مثال,mudaf,high
+04,relational-nouns,كَمَثَل,کی مثال کی مانند,mudaf,high
+04,relational-nouns,أَيّ,کون سا/کوئی,mudaf,high
+04,relational-nouns,غَيْر,علاوہ,mudaf,high
+04,relational-nouns,بِغَيْر,کے بغیر,mudaf,high
+04,relational-nouns,خَلْق,تخلیق/پیدائش,mudaf,high
+04,relational-nouns,امْرَأَة,عورت/بیوی,mudaf,high
+05,relational-nouns,ذُو,والا,mudaf,high
+05,relational-nouns,ذِي,والے,mudaf,high
+05,relational-nouns,وَعْد,وعدہ,mudaf,high
+05,relational-nouns,زِينَة,زینت,mudaf,high
+05,relational-nouns,سَبِيل,راستہ,mudaf,high
+05,relational-nouns,ابْن,بیٹا,mudaf,high
+05,relational-nouns,عِنْد,پاس,mudaf,high
+05,relational-nouns,مَع,ساتھ,mudaf,high
+05,relational-nouns,شَرّ,بدترین/برائی,mudaf,high
+05,relational-nouns,مُلْك,بادشاہت,mudaf,high
+05,relational-nouns,نَبَأ,خبر,mudaf,high
+05,relational-nouns,لَيْلَة,رات,mudaf,high
+05,relational-nouns,خَزَائِن,خزانے,mudaf,high
+05,relational-nouns,سُوء,برائی,mudaf,high
+05,relational-nouns,حُبّ,محبت,mudaf,high
+05,relational-nouns,بَعْض,کچھ/بعض,mudaf,high
+05,relational-nouns,سَرِيع,تیز,mudaf,high
+05,relational-nouns,وَجْه,چہرہ/رخ,mudaf,high
+05,relational-nouns,صِبْغَة,رنگ,mudaf,high
+05,relational-nouns,حَبْل,رسی,mudaf,high
+05,relational-nouns,يَد,ہاتھ,mudaf,high
+05,relational-nouns,فِطْرَة,فطرت,mudaf,high
+05,relational-nouns,حُدُود,حدود,mudaf,high
+05,relational-nouns,سُنَّة,سنت/طریقہ,mudaf,high
+07,relational-nouns,كُلّ,ہر/سب,quantifier,high
+08,fail-participle,خَالِق,پیدا کرنے والا,ism-fail,high
+08,fail-participle,رَازِق,رزق دینے والا,ism-fail,high
+08,fail-participle,حَافِظ,حفاظت کرنے والا,ism-fail,high
+08,fail-participle,صَابِر,صبر کرنے والا,ism-fail,high
+08,fail-participle,سَاجِد,سجدہ کرنے والا,ism-fail,high
+08,fail-participle,رَاحِم,رحم کرنے والا,ism-fail,high
+08,fail-participle,غَالِب,غالب آنے والا,ism-fail,high
+08,fail-participle,غَافِل,غفلت کرنے والا,ism-fail,high
+08,fail-participle,فَاعِل,کرنے والا,ism-fail,high
+08,fail-participle,حَاسِب,حساب لینے والا,ism-fail,high
+08,fail-participle,قَادِر,قدرت رکھنے والا,ism-fail,high
+08,fail-participle,صَادِق,سچ بولنے والا,ism-fail,high
+08,fail-participle,شَاكِر,شکر کرنے والا,ism-fail,high
+08,fail-participle,رَاكِع,رکوع کرنے والا,ism-fail,high
+08,fail-participle,ظَالِم,ظلم کرنے والا,ism-fail,high
+08,fail-participle,عَالِم,جاننے والا,ism-fail,high
+08,fail-participle,جَاهِل,نادان,ism-fail,high
+08,fail-participle,وَارِث,وارث/حکم دینے والا,ism-fail,med
+08,fail-participle,نَاصِح,نصیحت کرنے والا,ism-fail,high
+08,fail-participle,نَاظِر,دیکھنے والا,ism-fail,high
+08,fail-participle,حَامِد,حمد کرنے والا,ism-fail,high
+08,fail-participle,خَائِف,ڈرنے والا,ism-fail,high
+08,fail-participle,آخِذ,پکڑنے والا,ism-fail,high
+08,fail-participle,هَادِي,ہدایت دینے والا,ism-fail,high
+08,fail-participle,نَاصِر,مدد کرنے والا,ism-fail,high
+08,fail-participle,قَادِر2,قادر,ism-fail,med
+08,fail-participle,كَاذِب,جھوٹ بولنے والا,ism-fail,high
+08,fail-participle,ذَاكِر,ذکر کرنے والا,ism-fail,high
+08,fail-participle,رَاغِب,رغبت کرنے والا,ism-fail,high
+08,fail-participle,خَالِد,ہمیشہ رہنے والا,ism-fail,high
+08,fail-participle,قَائِم,قائم رہنے والا,ism-fail,high
+08,fail-participle,خَاسِر,خسارہ پانے والا,ism-fail,high
+08,fail-participle,فَاتِح,فیصلہ کرنے والا,ism-fail,high
+08,faaal-intensive,خَلَّاق,بہت پیدا کرنے والا,faaal,high
+08,faaal-intensive,غَفَّار,بخشنے والا,faaal,high
+08,faaal-intensive,رَزَّاق,خوب رزق دینے والا,faaal,high
+08,faaal-intensive,ظَلَّام,بہت ظلم کرنے والا,faaal,high
+08,faaal-intensive,كَذَّاب,بہت جھوٹا,faaal,high
+08,faaal-intensive,صَبَّار,بہت صبر کرنے والا,faaal,high
+08,faaal-intensive,تَوَّاب,بہت توبہ قبول کرنے والا,faaal,high
+08,faaal-intensive,وَهَّاب,بہت عطا کرنے والا,faaal,high
+08,faaal-intensive,قَهَّار,زبردست غالب,faaal,high
+08,faaal-intensive,فَتَّاح,بہت فیصلہ کرنے والا,faaal,high
+08,faaal-intensive,عَلَّام,بہت جاننے والا,faaal,high
+08,faaal-intensive,جَبَّار,زبردست,faaal,high
+08,faaal-intensive,سَحَّار,بڑا جادوگر,faaal,med
+08,faaal-intensive,سَمَّاع,خوب سننے والا,faaal,high
+09,mu-active,مُسْلِم,اسلام لانے والا,ism-fail-mu,high
+09,mu-active,مُهَاجِر,ہجرت کرنے والا,ism-fail-mu,high
+09,mu-active,مُنْتَظِر,انتظار کرنے والا,ism-fail-mu,high
+09,mu-active,مُجَاهِد,جہاد کرنے والا,ism-fail-mu,high
+09,mu-active,مُصْلِح,اصلاح کرنے والا,ism-fail-mu,high
+09,mu-active,مُفْسِد,فساد کرنے والا,ism-fail-mu,high
+09,mu-active,مُحْسِن,احسان کرنے والا,ism-fail-mu,high
+09,mu-active,مُؤْمِن,ایمان لانے والا,ism-fail-mu,high
+09,mu-active,مُنَافِق,منافق,ism-fail-mu,high
+09,mu-active,مُشْرِك,شرک کرنے والا,ism-fail-mu,high
+09,mu-active,مُفْلِح,فلاح پانے والا,ism-fail-mu,high
+09,mu-active,مُسْتَغْفِر,استغفار کرنے والا,ism-fail-mu,high
+09,mu-active,مُتَّقِي,تقویٰ کرنے والا,ism-fail-mu,high
+09,mu-active,مُتَوَكِّل,توکل کرنے والا,ism-fail-mu,high
+09,mu-active,مُتَكَبِّر,تکبر کرنے والا,ism-fail-mu,high
+09,mu-active,مُسْرِف,اسراف کرنے والا,ism-fail-mu,high
+09,mu-active,مُعْرِض,اعراض کرنے والا,ism-fail-mu,high
+09,mu-active,مُنْذِر,ڈرانے والا,ism-fail-mu,high
+09,mu-active,مُذَكِّر,یاد دلانے والا,ism-fail-mu,high
+09,mu-active,مُشْفِق,ڈرنے والا,ism-fail-mu,high
+09,mu-active,مُخْلِص,اخلاص والا,ism-fail-mu,high
+09,mu-active,مُسَبِّح,تسبیح کرنے والا,ism-fail-mu,high
+09,mu-active,مُقْتَدِر,قدرت والا,ism-fail-mu,high
+09,mu-passive,مُرْسَل,بھیجا گیا,ism-maful-mu,high
+09,mu-passive,مُنَزَّل,نازل کیا گیا,ism-maful-mu,high
+09,mu-passive,مُعَلَّم,سکھایا گیا,ism-maful-mu,high
+09,mu-passive,مُكْرَم,عزت دیا گیا,ism-maful-mu,high
+09,mu-passive,مُهْلَك,ہلاک کیا گیا,ism-maful-mu,high
+09,mu-passive,مُحَمَّد,تعریف کیا گیا,ism-maful-mu,high
+09,mu-passive,مُصْطَفَى,چنا گیا,ism-maful-mu,high
+09,mu-passive,مُسَخَّر,تابع کیا گیا,ism-maful-mu,high
+09,mu-passive,مُخَلَّص,خالص کیا گیا,ism-maful-mu,high
+09,mu-passive,مُقَرَّب,قریب کیا گیا,ism-maful-mu,high
+09,mu-passive,مُعَذَّب,عذاب دیا گیا,ism-maful-mu,high
+09,mu-passive,مُحَرَّم,حرام کیا گیا,ism-maful-mu,high
+09,mu-passive,مُحْضَر,حاضر کیا گیا,ism-maful-mu,high
+09,mu-passive,مُبَعَّد,دور کیا گیا,ism-maful-mu,med
+09,mu-passive,مُبَدَّل,بدلا گیا,ism-maful-mu,high
+09,mu-passive,مُبَشَّر,خوشخبری دیا گیا,ism-maful-mu,high
