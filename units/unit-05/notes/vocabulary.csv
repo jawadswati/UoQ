@@ -1,0 +1,70 @@
+slide,section,arabic,urdu,notes,confidence
+01,plural-pronouns,هُمْ,وہ سب (مذکر),detached plural pronoun "they";see-grammar,high
+01,plural-pronouns,أَنْتُمْ,تم سب,detached plural pronoun "you all";see-grammar,high
+01,plural-pronouns,نَحْنُ,ہم,detached plural pronoun "we";see-grammar,high
+01,plural-demonstratives,هٰؤُلَاءِ,یہ لوگ,near plural "these";see-grammar,high
+01,plural-demonstratives,أُولٰئِكَ,وہ لوگ,far plural "those";see-grammar,high
+05,attached-hum,ـهُمْ,ان کا/انہیں,plural suffix "their/them",high
+05,attached-hum,لَهُمْ,ان کے لیے,li + hum,high
+05,attached-hum,مِنْهُمْ,ان میں سے,min + hum,high
+05,attached-hum,فِيهِمْ,ان میں,fi + hum,high
+05,attached-hum,عَلَيْهِمْ,ان پر,ala + hum,high
+05,attached-hum,إِلَيْهِمْ,ان کی طرف,ila + hum,high
+05,attached-hum,بِهِمْ,ان کے ساتھ/سے,bi + hum,high
+05,attached-hum,عَنْهُمْ,ان سے/ان کے بارے میں,an + hum,high
+05,attached-hum,إِنَّهُمْ,بے شک وہ,inna + hum,high
+05,attached-hum,كِتَابُهُمْ,ان کی کتاب,hum-on-noun,high
+05,attached-hum,رَبُّهُمْ,ان کا رب,hum-on-noun,high
+09,attached-kum,ـكُمْ,تمہارا/تمہیں,plural suffix "your/you",high
+09,attached-kum,لَكُمْ,تمہارے لیے,li + kum,high
+09,attached-kum,مِنْكُمْ,تم میں سے,min + kum,high
+09,attached-kum,فِيكُمْ,تم میں,fi + kum,high
+09,attached-kum,عَلَيْكُمْ,تم پر,ala + kum,high
+09,attached-kum,إِلَيْكُمْ,تمہاری طرف,ila + kum,high
+09,attached-kum,بِكُمْ,تمہارے ساتھ,bi + kum,high
+09,attached-kum,إِنَّكُمْ,بے شک تم,inna + kum,high
+09,attached-kum,رَبُّكُمْ,تمہارا رب,kum-on-noun,high
+13,attached-na,ـنَا,ہمارا/ہمیں,plural suffix "our/us",high
+13,attached-na,لَنَا,ہمارے لیے,li + na,high
+13,attached-na,مِنَّا,ہم میں سے,min + na,high
+13,attached-na,فِينَا,ہم میں,fi + na,high
+13,attached-na,عَلَيْنَا,ہم پر,ala + na,high
+13,attached-na,إِلَيْنَا,ہماری طرف,ila + na,high
+13,attached-na,بِنَا,ہمارے ساتھ,bi + na,high
+13,attached-na,عَنَّا,ہم سے,an + na,high
+13,attached-na,إِنَّنَا,بے شک ہم,inna + na,high
+13,attached-na,رَبُّنَا,ہمارا رب,na-on-noun,high
+13,attached-na,كِتَابُنَا,ہماری کتاب,na-on-noun,high
+02,sound-masc-plural,الْمُسْلِمُونَ,مسلمان (جمع),sound-masc -una,high
+02,sound-masc-plural,الْمُؤْمِنُونَ,مومن (جمع),sound-masc -una,high
+02,sound-masc-plural,الظَّالِمُونَ,ظالم (جمع),sound-masc -una,high
+02,sound-masc-plural,الْكَافِرُونَ,کافر (جمع),sound-masc -una,high
+02,sound-masc-plural,الصَّابِرُونَ,صبر کرنے والے,sound-masc -una,high
+02,sound-masc-plural,الْمُتَّقُونَ,پرہیزگار (جمع),sound-masc -una,high
+02,sound-masc-plural,الْمُفْلِحُونَ,کامیاب لوگ,sound-masc -una,high
+02,sound-masc-plural,الْمُجْرِمُونَ,مجرم (جمع),sound-masc -una,high
+06,sound-masc-plural-jarr,الْمُسْلِمِينَ,مسلمانوں (حالتِ جر),sound-masc -ina,high
+06,sound-masc-plural-jarr,الْعَالَمِينَ,جہانوں,sound-masc -ina,high
+06,sound-masc-plural-jarr,الرَّازِقِينَ,رزق دینے والوں,sound-masc -ina,high
+06,sound-masc-plural-jarr,الرَّاحِمِينَ,رحم کرنے والوں,sound-masc -ina,high
+06,sound-masc-plural-jarr,الْحَاكِمِينَ,فیصلہ کرنے والوں,sound-masc -ina,high
+06,sound-masc-plural-jarr,الْخَالِقِينَ,پیدا کرنے والوں,sound-masc -ina,high
+02,sound-fem-plural,الْمُسْلِمَات,مسلمان عورتیں,sound-fem -aat,high
+02,sound-fem-plural,الْمُؤْمِنَات,مومن عورتیں,sound-fem -aat,high
+02,sound-fem-plural,الْقَانِتَات,فرمانبردار عورتیں,sound-fem -aat,high
+02,sound-fem-plural,الصَّالِحَات,نیک عورتیں,sound-fem -aat,high
+02,sound-fem-plural,الطَّيِّبَات,پاکیزہ چیزیں,sound-fem -aat,high
+14,vocab,صَامِتُونَ,خاموش رہنے والے,from antum lesson,med
+14,vocab,مُنْتَهُونَ,باز آنے والے,from antum lesson,high
+14,vocab,وَارِدُونَ,آنے والے,from antum lesson,high
+26,vocab,شُفَعَاءُ,سفارشی,from haaulaai lesson,high
+26,vocab,شُرَكَاءُ,شریک,from haaulaai lesson,high
+26,vocab,آلِهَةٌ,معبود (جمع),from haaulaai lesson,high
+26,vocab,شِرْذِمَةٌ,تھوڑا گروہ,from haaulaai lesson,med
+21,expressions,هَلْ,کیا …؟,question particle,high
+21,expressions,فَهَلْ,تو کیا …؟,question particle,high
+21,expressions,أَلَا,خبردار/سنو,attention particle,high
+21,expressions,أَلَيْسَ,کیا نہیں …؟,negative question,high
+34,tamyiz,دِينًا,دین کے اعتبار سے,tamyiz -an "in terms of",high
+34,tamyiz,عَمَلًا,عمل کے اعتبار سے,tamyiz -an,high
+34,tamyiz,حُكْمًا,حکم کے اعتبار سے,tamyiz -an,high
