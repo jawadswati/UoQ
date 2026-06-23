@@ -43,3 +43,26 @@ slide,section,arabic,urdu,notes,confidence
 01,expressions,لَعَلَّكُمْ تَعْقِلُونَ,تاکہ تم عقل سے کام لو,so that you may reason,high
 01,expressions,مَا تَعْمَلُونَ,جو تم کرتے ہو,what you do,high
 01,expressions,بِمَا تَعْمَلُونَ,جو تم کرتے ہو اس سے,of what you do,high
+01,particle-combos,مَا يَعْلَمُ,نہیں جانتا / جو جانتا ہے,maa + mudari (neg / relative),high
+01,particle-combos,لَيَعْلَمُ,یقیناً جانتا ہے,laam + mudari (emphasis),high
+01,particle-combos,إِنَّمَا يَتَذَكَّرُ,درحقیقت نصیحت پکڑتا ہے,innamaa + mudari,high
+01,particle-combos,كَذٰلِكَ يُبَيِّنُ,اسی طرح بیان کرتا ہے,kadhalika + mudari,high
+01,particle-combos,كَانَ يَقُولُ,کہا کرتا تھا,kaana + mudari (habitual past),high
+01,particle-combos,كَانُوا يَعْمَلُونَ,وہ کیا کرتے تھے,kaana + plural (habitual past),high
+03,verb-faail,يَغْفِرُ اللهُ,اللہ بخشتا ہے,verb + doer,high
+03,verb-faail,يَهْدِي اللهُ,اللہ ہدایت دیتا ہے,verb + doer,high
+03,verb-faail,يَقُولُ النَّاسُ,لوگ کہتے ہیں,verb + doer,high
+03,verb-faail,يَعْلَمُ اللهُ,اللہ جانتا ہے,verb + doer,high
+03,verb-faail,يَأْمُرُ اللهُ,اللہ حکم دیتا ہے,verb + doer,high
+02,mudari-verbs,يَغْفِرُ,وہ بخشتا ہے,he forgives,high
+02,mudari-verbs,يَهْدِي,وہ ہدایت دیتا ہے,he guides,high
+02,mudari-verbs,يَقُولُ,وہ کہتا ہے,he says,high
+02,mudari-verbs,يَأْمُرُ,وہ حکم دیتا ہے,he commands,high
+02,mudari-verbs,يَنْهَى,وہ منع کرتا ہے,he forbids,high
+02,mudari-verbs,يَضْرِبُ,وہ بیان کرتا ہے/مارتا ہے,he strikes/sets forth,high
+02,mudari-verbs,يَخْشَى,وہ ڈرتا ہے,he fears,high
+02,mudari-verbs,يَدْعُو,وہ پکارتا ہے,he calls,high
+02,mudari-verbs,يَكْسِبُ,وہ کماتا ہے,he earns,high
+02,mudari-verbs,يَسْتَوِي,وہ برابر ہوتا ہے,he/it is equal,high
+02,mudari-verbs,يَنْطِقُ,وہ بولتا ہے,he speaks,high
+02,mudari-verbs,يَجْزِي,وہ بدلہ دیتا ہے,he recompenses,high

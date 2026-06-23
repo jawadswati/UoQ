@@ -26,6 +26,12 @@ Transcribed from the slides; a few items carry `med` confidence in `vocabulary.c
 | **أَفَلَا تَعْقِلُونَ** | do you not then reason? | rhetorical question |
 | **لَعَلَّكُمْ تَعْقِلُونَ** | so that you may reason | purpose |
 | **مَا تَعْمَلُونَ / بِمَا تَعْمَلُونَ** | what you do / of what you do | ﴿وَاللهُ بِمَا تَعْمَلُونَ بَصِيرٌ﴾ |
+| **مَا + مضارع** | "does not" (negation) **or** "what / that which" (relative) | مَا يَعْلَمُ / مَا يَنْزِلُ |
+| **لَـ + مضارع** | "certainly/surely does" (emphasis) | لَيَعْلَمُ، لَيَحْكُمُ |
+| **إِنَّمَا + مضارع** | "in reality / only" | إِنَّمَا يَدْعُو، إِنَّمَا يَتَذَكَّرُ |
+| **كَذٰلِكَ + مضارع** | "thus / in this way" | كَذٰلِكَ يُبَيِّنُ اللهُ، كَذٰلِكَ يَضْرِبُ اللهُ |
+| **كَانَ + مضارع** | habitual past: "used to do" | كَانَ يَقُولُ، كَانُوا يَعْمَلُونَ |
+| **verb + فاعل** | the doer-noun follows the verb (marfūʿ) | يَغْفِرُ اللهُ، يَقُولُ النَّاسُ |
 
 ---
 
@@ -50,6 +56,26 @@ The same stem takes different prefixes/endings for each doer:
 - **you (m.s.) / she:** تَعْبُدُ.
 - **they (masc. pl.):** add **ـُونَ** → يَعْبُدُونَ، يَعْلَمُونَ، يَعْمَلُونَ، يَفْعَلُونَ.
 - **you all:** **تَـ … ـُونَ** → تَعْمَلُونَ، تَعْلَمُونَ، تَعْقِلُونَ.
+
+## The verb and its doer (فاعل)
+The doer-noun normally **follows** the verb and is مرفوع: يَغْفِرُ اللهُ ("Allah forgives"),
+يَهْدِي اللهُ، يُرِيدُ اللهُ، يَقُولُ النَّاسُ، يَعْلَمُ اللهُ. With a plural doer the verb may
+carry the ـُونَ ending: الْمُؤْمِنُونَ يَفْعَلُونَ، يُؤْمِنُ الْمُؤْمِنُونَ. Negative: لَا يُحِبُّ
+اللهُ الْكَافِرِينَ.
+
+## Particles placed before the مضارع
+Several particles attach to the front of a present verb and shade its meaning:
+- **مَا + مضارع** — two senses: (a) **negation** "does not" (مَا يَعْلَمُ "he does not know",
+  مَا يَنْطِقُ، مَا يَسْتَوِي); (b) **relative** "what / that which" (مَا يَنْزِلُ "what comes
+  down", مَا يَخْرُجُ، مَا يَعْلَمُ).
+- **لَـ + مضارع** = emphasis "certainly / surely does": لَيَعْلَمُ، لَيَحْكُمُ، لَيُبَيِّنُ،
+  لَيَجْزِي (also لَيَعْلَمَنَّ with nūn of emphasis).
+- **إِنَّمَا + مضارع** = "in reality / only": إِنَّمَا يَدْعُو، إِنَّمَا يَتَذَكَّرُ،
+  إِنَّمَا يَخْشَى، إِنَّمَا يُرِيدُ.
+- **كَذٰلِكَ + مضارع** = "thus / in this way": كَذٰلِكَ يُبَيِّنُ اللهُ آيَاتِهِ،
+  كَذٰلِكَ يَضْرِبُ اللهُ الْأَمْثَالَ، كَذٰلِكَ يَجْزِي اللهُ.
+- **كَانَ + مضارع** = **habitual past** "used to do / would do": كَانَ يَقُولُ، كَانُوا
+  يَعْمَلُونَ، كَانُوا يَكْسِبُونَ.
 
 ## Negation
 - **لَا + مضارع** = present/future negative: لَا يَعْلَمُونَ ("they do not know"),
