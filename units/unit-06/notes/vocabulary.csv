@@ -43,6 +43,18 @@ slide,section,arabic,urdu,notes,confidence
 01,expressions,لَعَلَّكُمْ تَعْقِلُونَ,تاکہ تم عقل سے کام لو,so that you may reason,high
 01,expressions,مَا تَعْمَلُونَ,جو تم کرتے ہو,what you do,high
 01,expressions,بِمَا تَعْمَلُونَ,جو تم کرتے ہو اس سے,of what you do,high
+01,prohibitive,لَا تَخَفْ,مت ڈرو,prohibition (laa naahiya),high
+01,prohibitive,لَا تَحْزَنْ,غم نہ کرو,prohibition,high
+01,prohibitive,لَا تُطِعْ,اطاعت نہ کرو,prohibition,high
+01,prohibitive,لَا تَقُلْ,مت کہو,prohibition,high
+01,prohibitive,لَا تَنْسَ,نہ بھولو,prohibition,high
+01,prohibitive,لَا تَدْعُ,نہ پکارو,prohibition,high
+01,prohibitive,لَا تَيْأَسْ,مایوس نہ ہو,prohibition,med
+01,first-person,أُقْسِمُ,میں قسم کھاتا ہوں,1st-person oath verb,high
+01,first-person,لَا أُقْسِمُ,میں قسم کھاتا ہوں,oath form,high
+01,first-person,أَدْعُوكُمْ,میں تمہیں بلاتا ہوں,verb + object suffix,high
+01,first-person,أَسْأَلُكُمْ,میں تم سے مانگتا ہوں,verb + object suffix,high
+01,first-person,أُذَكِّرُكُمْ,میں تمہیں نصیحت کرتا ہوں,verb + object suffix,med
 01,particle-combos,مَا يَعْلَمُ,نہیں جانتا / جو جانتا ہے,maa + mudari (neg / relative),high
 01,particle-combos,لَيَعْلَمُ,یقیناً جانتا ہے,laam + mudari (emphasis),high
 01,particle-combos,إِنَّمَا يَتَذَكَّرُ,درحقیقت نصیحت پکڑتا ہے,innamaa + mudari,high

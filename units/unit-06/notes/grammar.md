@@ -85,6 +85,17 @@ Several particles attach to the front of a present verb and shade its meaning:
 - **أَلَمْ …؟** = "have you not …? / did … not …?": ﴿أَلَمْ تَرَ﴾ ("have you not seen?"),
   ﴿أَلَمْ تَعْلَمْ﴾ ("do you not know?"), ﴿أَلَمْ نَشْرَحْ﴾ ("did We not expand?").
 
+## The prohibitive لَا (لاءِ ناہیہ) — "do not …"
+**لَا + مضارع** can also be a **prohibition** (a negative command), which shortens the verb
+(jazm): لَا تَخَفْ ("do not fear"), لَا تَحْزَنْ ("do not grieve"), لَا تُطِعْ ("do not obey"),
+لَا تَقُلْ ("do not say"), لَا تَنْسَ ("do not forget"), لَا تَدْعُ ("do not call"),
+لَا تَيْأَسْ ("do not despair"). (Context tells prohibition apart from simple negation.)
+
+## 1st-person verbs & verb + object suffix
+- **أُقْسِمُ** ("I swear"), often لَا أُقْسِمُ — an oath form: ﴿لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ﴾.
+- A verb can take an **object pronoun suffix**: أَدْعُو → أَدْعُوكُمْ ("I call you"),
+  أَسْأَلُ → أَسْأَلُكُمْ ("I ask you"), أُذَكِّرُكُمْ، يَهْدِيهِمْ، يَرْزُقُهُمْ.
+
 ## Common Quranic expressions on the مضارع
 - **أَفَلَا تَعْقِلُونَ / أَفَلَا تَذَكَّرُونَ / أَفَلَا تَتَفَكَّرُونَ** = "do you not then
   reason / take heed / reflect?" (rhetorical rebuke).
