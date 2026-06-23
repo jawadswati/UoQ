@@ -71,6 +71,15 @@ slide,section,arabic,urdu,notes,confidence
 07,attached-hum,إِنَّهُمْ,بے شک وہ,inna + hum,high
 07,attached-hum,كِتَابُهُمْ,ان کی کتاب,hum-on-noun,high
 07,attached-hum,رَبُّهُمْ,ان کا رب,hum-on-noun,high
+07,attached-hum,قُلُوبُهُمْ,ان کے دل,hum-on-noun,high
+07,attached-hum,أَعْمَالُهُمْ,ان کے اعمال,hum-on-noun,high
+07,attached-hum,أَمْوَالُهُمْ,ان کے مال,hum-on-noun,high
+07,attached-hum,أَنْفُسُهُمْ,ان کی جانیں,hum-on-noun,high
+07,attached-hum,وَهُمْ,اور وہ,wa + hum,high
+07,attached-hum,هُمُ الْكَافِرُونَ,وہی کافر ہیں,hum + definite,high
+07,attached-hum,هُمُ الْمُفْلِحُونَ,وہی کامیاب ہیں,hum + definite,high
+07,attached-hum,هُمُ الظَّالِمُونَ,وہی ظالم ہیں,hum + definite,high
+07,attached-hum,الَّذِينَ هُمْ,وہ لوگ جو,relative + hum,high
 09,attached-kum,ـكُمْ,تمہارا/تمہیں,plural suffix "your/you",high
 09,attached-kum,لَكُمْ,تمہارے لیے,li + kum,high
 09,attached-kum,مِنْكُمْ,تم میں سے,min + kum,high
