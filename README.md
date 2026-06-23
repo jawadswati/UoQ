@@ -22,13 +22,13 @@ Everything is organised **by unit**. Open a unit folder and you will find up to 
 | Unit | Topic | Slides | Notes | Practice |
 |------|-------|:------:|:-----:|:--------:|
 | **1** | Quranic vocabulary + first grammar (الْ vs tanwīn, demonstratives, اسم تفضیل) | [📖](units/unit-01/slides) | [📝](units/unit-01/notes) | [📄 PDF](units/unit-01/practice/unit-01-questions.pdf) |
-| **2** | 13 high-frequency Quranic particles (إِنَّ، لِـ، فِي، عَلَى، مِنْ، إِلَى، بِـ، لَا، إِلَّا، وَ، أَنَّ، كَانَ، يَا) | [📖](units/unit-02/slides) | [📝](units/unit-02/notes) | — |
-| **3** | صفت/موصوف (adjectives), اِضافت (genitive), كُلّ, participle patterns, the dual | [📖](units/unit-03/slides) | [📝](units/unit-03/notes) | — |
-| **4** | (slides only — notes coming) | [📖](units/unit-04/slides) | — | — |
-| **5** | (slides only — notes coming) | [📖](units/unit-05/slides) | — | — |
-| **6** | (slides only — notes coming) | [📖](units/unit-06/slides) | — | — |
+| **2** | 13 high-frequency Quranic particles (إِنَّ، لِـ، فِي، عَلَى، مِنْ، إِلَى، بِـ، لَا، إِلَّا، وَ، أَنَّ، كَانَ، يَا) | [📖](units/unit-02/slides) | [📝](units/unit-02/notes) | [📄 PDF](units/unit-02/practice/unit-02-questions.pdf) |
+| **3** | صفت/موصوف (adjectives), اِضافت (genitive), كُلّ, participle patterns, the dual | [📖](units/unit-03/slides) | [📝](units/unit-03/notes) | [📄 PDF](units/unit-03/practice/unit-03-questions.pdf) |
+| **4** | Pronouns — ضمائر (detached هُوَ/أَنْتَ/هِيَ/أَنَا & suffixes ـهُ/ـكَ/ـهَا/ـي) | [📖](units/unit-04/slides) | [📝](units/unit-04/notes) | [📄 PDF](units/unit-04/practice/unit-04-questions.pdf) |
+| **5** | Plural pronouns & demonstratives — جمع ضمائر (هُمْ/أَنْتُمْ/نَحْنُ) و اسمائے اشارہ (هٰؤُلَاءِ/أُولٰئِكَ) | [📖](units/unit-05/slides) | [📝](units/unit-05/notes) | [📄 PDF](units/unit-05/practice/unit-05-questions.pdf) |
+| **6** | The present-tense verb — فعلِ حال (المضارع): conjugation, negation (لَا/لَمْ), expressions | [📖](units/unit-06/slides) | [📝](units/unit-06/notes) | [📄 PDF](units/unit-06/practice/unit-06-questions.pdf) |
 
-Units 1–3 are fully transcribed. Units 4–6 currently contain the slides only.
+All six units now have full slides, notes, and a bilingual question bank.
 
 ## What's in the notes / نوٹس میں کیا ہے
 
