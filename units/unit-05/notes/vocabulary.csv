@@ -89,6 +89,27 @@ slide,section,arabic,urdu,notes,confidence
 09,attached-kum,بِكُمْ,تمہارے ساتھ,bi + kum,high
 09,attached-kum,إِنَّكُمْ,بے شک تم,inna + kum,high
 09,attached-kum,رَبُّكُمْ,تمہارا رب,kum-on-noun,high
+09,attached-kum,إِخْوَانُكُمْ,تمہارے بھائی,kinship+kum,high
+09,attached-kum,آبَاؤُكُمْ,تمہارے باپ دادا,kinship+kum,high
+09,attached-kum,أَزْوَاجُكُمْ,تمہاری بیویاں,kinship+kum,high
+09,attached-kum,أَبْنَاؤُكُمْ,تمہارے بیٹے,kinship+kum,high
+09,attached-kum,أَوْلَادُكُمْ,تمہاری اولاد,kinship+kum,high
+09,attached-kum,أُمَّهَاتُكُمْ,تمہاری مائیں,kinship+kum,high
+09,attached-kum,أَخَوَاتُكُمْ,تمہاری بہنیں,kinship+kum,high
+09,attached-kum,بَنَاتُكُمْ,تمہاری بیٹیاں,kinship+kum,high
+09,attached-kum,قُلُوبُكُمْ,تمہارے دل,body+kum,high
+09,attached-kum,وُجُوهُكُمْ,تمہارے چہرے,body+kum,high
+09,attached-kum,أَعْيُنُكُمْ,تمہاری آنکھیں,body+kum,high
+09,attached-kum,أَلْسِنَتُكُمْ,تمہاری زبانیں,body+kum,high
+09,attached-kum,أَيْدِيكُمْ,تمہارے ہاتھ,body+kum,high
+09,attached-kum,جُلُودُكُمْ,تمہاری کھالیں,body+kum,high
+09,attached-kum,أَعْمَالُكُمْ,تمہارے اعمال,kum-on-noun,high
+09,attached-kum,أَنْفُسُكُمْ,تمہاری جانیں,kum-on-noun,high
+20,demonstrative-vocab,ذٰلِكُمْ,یہ/وہ (تم سب کو خطاب),plural-addressed demonstrative,high
+20,demonstrative-vocab,ذٰلِكُمُ اللهُ رَبُّكُمْ,یہی اللہ تمہارا رب ہے,fixed expression,high
+20,expressions,لَيْسَ,نہیں ہے,negation "is not",high
+17,detached-nahnu,نَحْنُ الْمُسْلِمُونَ,ہم مسلمان ہیں,nahnu + predicate,high
+17,detached-nahnu,نَحْنُ الْغَالِبُونَ,ہم ہی غالب ہیں,nahnu + predicate,high
 13,attached-na,ـنَا,ہمارا/ہمیں,plural suffix "our/us",high
 13,attached-na,لَنَا,ہمارے لیے,li + na,high
 13,attached-na,مِنَّا,ہم میں سے,min + na,high
