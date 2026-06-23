@@ -1,0 +1,45 @@
+slide,section,arabic,urdu,notes,confidence
+02,mudari-verbs,يَعْبُدُ,وہ عبادت کرتا ہے,present verb "he worships",high
+02,mudari-verbs,يَعْلَمُ,وہ جانتا ہے,he knows,high
+02,mudari-verbs,يَسْمَعُ,وہ سنتا ہے,he hears,high
+02,mudari-verbs,يَنْزِلُ,وہ نازل کرتا ہے,he sends down,high
+02,mudari-verbs,يُؤْمِنُ,وہ ایمان لاتا ہے,he believes,high
+02,mudari-verbs,يُسْلِمُ,وہ اسلام لاتا ہے,he submits,high
+02,mudari-verbs,يُصْلِحُ,وہ اصلاح کرتا ہے,he reforms,high
+02,mudari-verbs,يُفْسِدُ,وہ فساد کرتا ہے,he corrupts,high
+02,mudari-verbs,يُقَاتِلُ,وہ جنگ کرتا ہے,he fights,high
+02,mudari-verbs,يُجَاهِدُ,وہ جہاد کرتا ہے,he strives,high
+02,mudari-verbs,يُجَادِلُ,وہ جھگڑا کرتا ہے,he disputes,high
+02,mudari-verbs,يُقِيمُ,وہ قائم کرتا ہے,he establishes,high
+02,mudari-verbs,يُحْيِي,وہ زندہ کرتا ہے,he gives life,high
+02,mudari-verbs,يُمِيتُ,وہ موت دیتا ہے,he causes death,high
+02,mudari-verbs,يُحِبُّ,وہ محبت کرتا ہے,he loves,high
+02,mudari-verbs,يُرِيدُ,وہ چاہتا ہے,he wills/wants,high
+02,mudari-verbs,يُخْرِجُ,وہ نکالتا ہے,he brings out,high
+02,mudari-verbs,يُعَذِّبُ,وہ عذاب دیتا ہے,he punishes,high
+02,mudari-verbs,يُبَيِّنُ,وہ بیان کرتا ہے,he makes clear,high
+02,mudari-verbs,يُبَشِّرُ,وہ خوشخبری دیتا ہے,he gives glad tidings,high
+02,mudari-verbs,يُفَصِّلُ,وہ تفصیل بتاتا ہے,he explains in detail,high
+02,mudari-verbs,يُطِيعُ,وہ اطاعت کرتا ہے,he obeys,high
+02,mudari-verbs,يَتَفَكَّرُ,وہ غور و فکر کرتا ہے,he reflects,high
+02,mudari-verbs,يَتَذَكَّرُ,وہ نصیحت حاصل کرتا ہے,he takes heed,high
+02,mudari-verbs,يَتَدَبَّرُ,وہ تدبر کرتا ہے,he ponders,high
+02,mudari-verbs,يَتَوَكَّلُ,وہ بھروسہ کرتا ہے,he relies/trusts,high
+02,mudari-verbs,يَسْتَغْفِرُ,وہ استغفار کرتا ہے,he seeks forgiveness,high
+02,mudari-verbs,يَفْتَرِي,وہ جھوٹ گھڑتا ہے,he fabricates,high
+02,mudari-verbs,يُزَكِّي,وہ پاک کرتا ہے,he purifies,high
+02,mudari-verbs,يَتَّبِعُ,وہ پیروی کرتا ہے,he follows,high
+01,conjugation,يَفْعَلُ,وہ (مذکر) کرتا ہے,3rd masc. sing. "he does",high
+01,conjugation,تَفْعَلُ,وہ (مؤنث) کرتی ہے / تو کرتا ہے,3rd fem. / 2nd masc. "she/you do",high
+01,conjugation,أَفْعَلُ,میں کرتا ہوں,1st sing. "I do",high
+01,conjugation,نَفْعَلُ,ہم کرتے ہیں,1st pl. "we do",high
+01,conjugation,يَفْعَلُونَ,وہ سب کرتے ہیں,3rd masc. pl. "they do",high
+01,conjugation,تَفْعَلُونَ,تم سب کرتے ہو,2nd masc. pl. "you all do",high
+01,negation,لَا يَفْعَلُ,نہیں کرتا,present negative,high
+01,negation,لَمْ يَفْعَلْ,نہیں کیا,past negative (jazm),high
+01,expressions,أَلَمْ تَرَ,کیا تم نے نہیں دیکھا؟,have you not seen,high
+01,expressions,أَلَمْ تَعْلَمْ,کیا تم نہیں جانتے؟,do you not know,high
+01,expressions,أَفَلَا تَعْقِلُونَ,تو کیا تم عقل نہیں کرتے؟,do you not reason,high
+01,expressions,لَعَلَّكُمْ تَعْقِلُونَ,تاکہ تم عقل سے کام لو,so that you may reason,high
+01,expressions,مَا تَعْمَلُونَ,جو تم کرتے ہو,what you do,high
+01,expressions,بِمَا تَعْمَلُونَ,جو تم کرتے ہو اس سے,of what you do,high
